@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Quirky Doodlebox', // Title for your website.
+    title: 'Shivani Angane', // Title for your website.
     tagline: 'Be brave, not perfect',
     profilePhoto: 'img/profile.png',
     url: 'https://github.com/shivani1802', // Your website URL
